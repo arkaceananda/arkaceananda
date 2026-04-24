@@ -20,9 +20,17 @@
 
 ---
 
-### GitHub Analysis
-![Arka's Stats](https://github-readme-stats.vercel.app/api?username=arkaceananda&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arkaceananda&layout=compact&theme=radical)
+### GitHub Analysis<table align="center" border="0" cellpadding="0" cellspacing="0">
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=arkaceananda&show_icons=true&theme=radical&hide_border=true" width="400" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arkaceananda&layout=compact&theme=radical&hide_border=true" width="300" />
+    </td>
+  </tr>
+</table>
 
 ---
 
