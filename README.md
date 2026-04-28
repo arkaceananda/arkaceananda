@@ -42,6 +42,20 @@
 </table>
 
 ---
+### Github Analyist Stats
+
+<table border="0" align="center" width="100%">
+  <tr>
+    <td width="55%" align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=arkaceananda&show_icons=true&theme=radical&hide_border=true&count_private=true" width="100%" />
+    </td>
+    <td width="45%" align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arkaceananda&layout=donut&theme=radical&hide_border=true" width="100%" />
+    </td>
+  </tr>
+</table>
+
+---
 
 ### 🤝 Let's Connect!
 <p align="center">
