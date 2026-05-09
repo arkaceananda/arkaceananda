@@ -10,7 +10,6 @@
     <td>
       <img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
       <img src="https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-      <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -19,7 +18,6 @@
       <img src="https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
       <img src="https://img.shields.io/badge/-Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white" />
       <img src="https://img.shields.io/badge/-JavaFX-orange?style=for-the-badge" />
-      <img src="https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
       <img src="https://img.shields.io/badge/-XML-FFA164?style=for-the-badge&logo=xml&logoColor=white" />
     </td>
   </tr>
@@ -37,6 +35,7 @@
     <td>
       <img src="https://img.shields.io/badge/-Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
       <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/-docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
     </td>
   </tr>
 </table>
