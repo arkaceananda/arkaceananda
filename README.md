@@ -9,7 +9,6 @@
     <td align="right"><b>Languages</b></td>
     <td>
       <img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -17,7 +16,6 @@
     <td>
       <img src="https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
       <img src="https://img.shields.io/badge/-Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white" />
-      <img src="https://img.shields.io/badge/-JavaFX-orange?style=for-the-badge" />
       <img src="https://img.shields.io/badge/-XML-FFA164?style=for-the-badge&logo=xml&logoColor=white" />
     </td>
   </tr>
