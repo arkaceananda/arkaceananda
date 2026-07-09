@@ -40,15 +40,15 @@ An Android developer focused on building clean, efficient, and modern mobile app
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 June 2026 - To: 06 July 2026
+From: 07 June 2026 - To: 07 July 2026
 
-Total Time: 1 hr 32 mins
+Total Time: 3 hrs 40 mins
 
-TypeScript       1 hr 10 mins          >>>>>>>>>>>>>>>>>>>======   74.08 %
-Kotlin           18 mins               >>>>>====================   18.92 %
-Other            3 mins                >========================   03.41 %
-CSS              1 min                 =========================   01.77 %
-GitIgnore file   1 min                 =========================   01.49 %
+Kotlin            2 hrs 9 mins          >>>>>>>>>>>>>>===========   57.63 %
+TypeScript        1 hr 10 mins          >>>>>>>>=================   31.53 %
+TOML              5 mins                >========================   02.39 %
+Java Properties   4 mins                =========================   01.93 %
+Markdown          4 mins                =========================   01.85 %
 ```
 
 <!--END_SECTION:waka-->
