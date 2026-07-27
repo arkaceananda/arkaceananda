@@ -1,8 +1,4 @@
-# Hi, I'm Arka 👋
-
-An Android developer focused on building clean, efficient, and modern mobile apps using Kotlin and Jetpack Compose.
-
----
+# Hi, I'm Arka
 
 ### Languages
 
