@@ -36,15 +36,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 June 2026 - To: 28 July 2026
+From: 29 June 2026 - To: 29 July 2026
 
-Total Time: 31 hrs 29 mins
+Total Time: 33 hrs 29 mins
 
-Kotlin                 19 hrs 42 mins        >>>>>>>>>>>>>>>>=========   62.57 %
-TypeScript             3 hrs 13 mins         >>>======================   10.23 %
-Markdown               1 hr 25 mins          >========================   04.54 %
-PlantUML               1 hr 20 mins          >========================   04.27 %
-JSON                   57 mins               >========================   03.03 %
+Kotlin                 19 hrs 42 mins        >>>>>>>>>>>>>>>==========   58.84 %
+TypeScript             3 hrs 13 mins         >>=======================   09.62 %
+PlantUML               2 hrs 38 mins         >>=======================   07.88 %
+Markdown               1 hr 31 mins          >========================   04.54 %
+JavaScript             1 hr 7 mins           >========================   03.34 %
 ```
 
 <!--END_SECTION:waka-->
