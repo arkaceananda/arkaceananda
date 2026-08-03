@@ -36,15 +36,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 July 2026 - To: 31 July 2026
+From: 02 July 2026 - To: 01 August 2026
 
-Total Time: 37 hrs 54 mins
+Total Time: 41 hrs 15 mins
 
-Kotlin                 21 hrs 11 mins        >>>>>>>>>>>>>>===========   55.86 %
-TypeScript             3 hrs 13 mins         >>=======================   08.50 %
-PlantUML               2 hrs 38 mins         >>=======================   06.96 %
-Markdown               1 hr 38 mins          >========================   04.34 %
-PHP                    1 hr 36 mins          >========================   04.22 %
+Kotlin                 21 hrs 16 mins        >>>>>>>>>>>>>============   51.56 %
+TypeScript             3 hrs 13 mins         >>=======================   07.81 %
+Blade Template         3 hrs 6 mins          >>=======================   07.53 %
+PHP                    3 hrs 4 mins          >>=======================   07.46 %
+PlantUML               2 hrs 38 mins         >>=======================   06.40 %
 ```
 
 <!--END_SECTION:waka-->
