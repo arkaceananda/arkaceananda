@@ -72,7 +72,7 @@ A Rust CLI tool that generates GitHub contribution summaries as SVG files for us
 
 ## Coding Activity
 
-[![wakatime](https://wakatime.com/badge/user/d27f8261-bf3b-4bbd-aaf4-4f5e664b5184.svg)](https://wakatime.com/@d27f8261-bf3b-4bbd-aaf4-4f5e664b5184)
+[![wakatime](https://streak-stats.demolab.com?user=arkaceananda&theme=tokyonight&hide_border=true)](https://wakatime.com/@d27f8261-bf3b-4bbd-aaf4-4f5e664b5184)
 
 <!--START_SECTION:waka-->
 ```txt
@@ -94,7 +94,7 @@ PlantUML                2 hrs 49 mins        >>=======================   06.54 %
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arkaceananda&theme=dark&hide_border=true)
 
-![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
+![3D Contribution Graph](./profile-3d-contrib/profile-night-view.svg)
 
 ---
 
