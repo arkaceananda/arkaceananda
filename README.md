@@ -1,57 +1,96 @@
-# Hi, I'm Arka
+# Hi, I'm Arka 
 
-### Languages
+Software and Game Development student focused on **Android application development**.
 
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-
-### Frameworks & UI
-
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white)
-![XML](https://img.shields.io/badge/XML-FFA164?style=for-the-badge&logoColor=white)
-
-### Concurrency & Network
-
-![Coroutines](https://img.shields.io/badge/Coroutines-326488?style=for-the-badge&logo=kotlin&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-40C4FF?style=for-the-badge&logoColor=white)
-
-### Database & Cloud
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### Tools & Environment
-
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
+I primarily build with **Kotlin and Jetpack Compose**, while exploring other areas of software development through personal and academic projects.
 
 ---
 
-### Coding Activity
+## Tech Stack
+
+**Mobile Development**
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Room](https://img.shields.io/badge/Room-4285F4?style=flat-square&logo=android&logoColor=white)
+
+**Web & Backend**
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Blade](https://img.shields.io/badge/Blade-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Tools & Other**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+
+---
+
+## What I'm Working On
+
+- Building Android applications with **Kotlin and Jetpack Compose**
+- Exploring **MVVM, Kotlin Coroutines, local databases, and API integration**
+- Learning more about **UI/UX design** with Figma
+- Exploring different programming paradigms and technologies through small projects
+- Learning **Rust** to better understand lower-level programming concepts
+
+---
+
+## Featured Projects
+
+### SIJAR
+A multi-platform system consisting of an Android application, web frontend, and Laravel backend.
+
+- **My contribution:** Android and backend development
+- **Stack:** Kotlin · Jetpack Compose · MVVM · Room · Laravel · MySQL
+
+### BurjoOrder
+A QR-based food ordering system with real-time order updates and role-based access.
+
+- **Features:** Customer, cashier, and admin roles · Authentication · Role-based authorisation · Real-time order updates
+- **Stack:** Laravel · Blade · PostgreSQL · Reverb
+
+### New Year Countdown
+A New Year countdown application with animated fireworks and customisation features.
+
+- **Highlights:** Theme customisation · Fireworks animation · Screenshot support · Developer testing mode
+- **Stack:** Kotlin · Jetpack Compose
+
+### Monthly Recap
+A Rust CLI tool that generates GitHub contribution summaries as SVG files for use in GitHub profiles and README files.
+
+- **Stack:** Rust · GitHub API · SVG
+
+---
+
+## Coding Activity
 
 [![wakatime](https://wakatime.com/badge/user/d27f8261-bf3b-4bbd-aaf4-4f5e664b5184.svg)](https://wakatime.com/@d27f8261-bf3b-4bbd-aaf4-4f5e664b5184)
 
 <!--START_SECTION:waka-->
-
 ```txt
 From: 08 July 2026 - To: 07 August 2026
 
 Total Time: 42 hrs 57 mins
 
 Kotlin                 12 hrs 38 mins        >>>>>>>==================   29.28 %
-PHP                    9 hrs 33 mins         >>>>>>===================   22.15 %
-Blade Template         4 hrs 32 mins         >>>======================   10.53 %
-TypeScript             3 hrs 13 mins         >>=======================   07.47 %
-PlantUML               2 hrs 49 mins         >>=======================   06.54 %
+PHP                     9 hrs 33 mins        >>>>>>===================   22.15 %
+Blade Template          4 hrs 32 mins        >>>======================   10.53 %
+TypeScript              3 hrs 13 mins        >>=======================   07.47 %
+PlantUML                2 hrs 49 mins        >>=======================   06.54 %
 ```
-
 <!--END_SECTION:waka-->
 
 ---
 
-### Contribution Graph
+## Contribution Graph
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arkaceananda&theme=dark&hide_border=true)
 
@@ -59,10 +98,8 @@ PlantUML               2 hrs 49 mins         >>=======================   06.54 %
 
 ---
 
-### Connect
+## Connect
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/buervm)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/kaaves_95929)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arkamudya.aceananda@gmail.com)
-
-> Some details here may change as I continue developing my skills and refining my projects.
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/buervm)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/kaaves_95929)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:arkamudya.aceananda@gmail.com)
