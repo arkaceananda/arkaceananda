@@ -75,6 +75,19 @@ A Rust CLI tool that generates GitHub contribution summaries as SVG files for us
 [![wakatime](https://streak-stats.demolab.com?user=arkaceananda&theme=tokyonight&hide_border=true)](https://wakatime.com/@d27f8261-bf3b-4bbd-aaf4-4f5e664b5184)
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 09 July 2026 - To: 08 August 2026
+
+Total Time: 45 hrs 41 mins
+
+Kotlin                 11 hrs 46 mins        >>>>>>===================   25.67 %
+PHP                    10 hrs 57 mins        >>>>>>===================   23.86 %
+Blade Template         5 hrs 6 mins          >>>======================   11.14 %
+TypeScript             3 hrs 13 mins         >>=======================   07.02 %
+PlantUML               2 hrs 49 mins         >>=======================   06.15 %
+```
+
 <!--END_SECTION:waka-->
 
 ---
