@@ -39,7 +39,6 @@ I primarily build with **Kotlin and Jetpack Compose**, while exploring other are
 - Exploring **MVVM, Kotlin Coroutines, local databases, and API integration**
 - Learning more about **UI/UX design** with Figma
 - Exploring different programming paradigms and technologies through small projects
-- Learning **Rust** to better understand lower-level programming concepts
 
 ---
 
@@ -62,11 +61,6 @@ A New Year countdown application with animated fireworks and customisation featu
 
 - **Highlights:** Theme customisation · Fireworks animation · Screenshot support · Developer testing mode
 - **Stack:** Kotlin · Jetpack Compose
-
-### Monthly Recap
-A Rust CLI tool that generates GitHub contribution summaries as SVG files for use in GitHub profiles and README files.
-
-- **Stack:** Rust · GitHub API · SVG
 
 ---
 
