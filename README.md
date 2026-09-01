@@ -71,15 +71,15 @@ A New Year countdown application with animated fireworks and customisation featu
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 July 2026 - To: 29 August 2026
+From: 31 July 2026 - To: 30 August 2026
 
-Total Time: 59 hrs 8 mins
+Total Time: 56 hrs 26 mins
 
-PHP              26 hrs 19 mins        >>>>>>>>>>>==============   43.73 %
-Blade Template   13 hrs 2 mins         >>>>>====================   21.67 %
-Kotlin           3 hrs 9 mins          >========================   05.25 %
-Markdown         2 hrs 53 mins         >========================   04.82 %
-Rust             2 hrs 38 mins         >========================   04.38 %
+PHP              25 hrs 42 mins        >>>>>>>>>>>==============   44.70 %
+Blade Template   11 hrs 50 mins        >>>>>====================   20.57 %
+Markdown         3 hrs 21 mins         >========================   05.84 %
+Rust             2 hrs 38 mins         >========================   04.58 %
+Bash             1 hr 45 mins          >========================   03.04 %
 ```
 
 <!--END_SECTION:waka-->
