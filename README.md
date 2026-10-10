@@ -71,15 +71,15 @@ A New Year countdown application with animated fireworks and customisation featu
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 September 2026 - To: 07 October 2026
+From: 08 September 2026 - To: 08 October 2026
 
-Total Time: 15 hrs 8 mins
+Total Time: 12 hrs 56 mins
 
-Kotlin            7 hrs 54 mins         >>>>>>>>>>>>>============   50.05 %
-PHP               1 hr 23 mins          >>=======================   08.85 %
-Java              1 hr 16 mins          >>=======================   08.07 %
-YAML              59 mins               >>=======================   06.29 %
-TOML              48 mins               >========================   05.16 %
+Kotlin            5 hrs 42 mins         >>>>>>>>>>===============   41.96 %
+PHP               1 hr 23 mins          >>>======================   10.29 %
+Java              1 hr 16 mins          >>=======================   09.37 %
+YAML              59 mins               >>=======================   07.31 %
+TOML              48 mins               >>=======================   06.00 %
 ```
 
 <!--END_SECTION:waka-->
