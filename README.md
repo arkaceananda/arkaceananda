@@ -71,7 +71,7 @@ A New Year countdown application with animated fireworks and customisation featu
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 September 2026 - To: 14 October 2026
+From: 15 September 2026 - To: 15 October 2026
 
 Total Time: 9 hrs 10 mins
 
