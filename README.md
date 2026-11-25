@@ -62,27 +62,6 @@ A New Year countdown application with animated fireworks and customisation featu
 - **Highlights:** Theme customisation · Fireworks animation · Screenshot support · Developer testing mode
 - **Stack:** Kotlin · Jetpack Compose
 
----
-
-## Coding Activity
-
-[![wakatime](https://streak-stats.demolab.com?user=arkaceananda&theme=tokyonight&hide_border=true)](https://wakatime.com/@d27f8261-bf3b-4bbd-aaf4-4f5e664b5184)
-
-<!--START_SECTION:waka-->
-
-```txt
-From: 30 September 2026 - To: 30 October 2026
-
-Total Time: 3 hrs 1 min
-
-Kotlin           2 hrs 58 mins         >>>>>>>>>>>>>>>>>>>>=====   78.69 %
-Other            45 mins               >>>>>====================   20.10 %
-Swift            1 min                 =========================   00.53 %
-XML              0 secs                =========================   00.31 %
-Java             0 secs                =========================   00.21 %
-```
-
-<!--END_SECTION:waka-->
 
 ---
 
